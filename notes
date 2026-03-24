@@ -1,0 +1,7 @@
+node js is the runtime environment that is going to help us to create the backend applications
+----------------------------------------------
+node js is really a bottleneck, it will difficult work with bigger application using node js 
+
+Express js is the Framework which the built on top of the node js, we are going to use the express framework to build the large applications
+express js helps us to write the efficient code + easy code,
+authentication and authorization
