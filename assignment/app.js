@@ -21,3 +21,13 @@ for (let i = 0; i < text.length; i++) {
     }
 }
 console.log(vowel);
+
+// Write a program to find the 4th largest number in an array
+let arr1=[5, 8, 10, 7, 65];
+
+let sortArr1=arr1.sort((a,b)=> b-a);
+console.log(sortArr);
+
+let fourthlargeNum = sortArr[3];
+
+console.log(fourthlargeNum);
