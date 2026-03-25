@@ -55,4 +55,4 @@ function reverseString(str){
     return revStr
     
 }
-console.log(reverseString("Guvi"));
+console.log(reverseString("Guvi").toLowerCase());
